@@ -19,7 +19,7 @@ This repository is officially initialized to secure the **AuraRevolutionary** an
 
 ## System Availability
 ⚠️ **Coming soon...** 
-The system files, interface customizations, and installation assets are currently under heavy construction. A bootable image is not yet ready for public release. 
+The system files, interface customizations, and installation assets are currently under heavy construction. A bootable image is not yet ready for public release
 
 ---
 *AuraRevolutionary™ OS is an independent software project. All rights reserved to EngineerMouse, 2026.*
