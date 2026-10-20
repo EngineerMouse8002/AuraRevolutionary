@@ -1,6 +1,6 @@
 # AuraRevolutionary (ARV:OS)
 
-![AuraRevolutionary Logo](logo.png)
+![AuraRevolutionary Logo](prototypelogo1.png)
 
 Welcome to the official home of **AuraRevolutionary**, a personalized operating system environment built to deliver a clean, custom user experience with a distinct Frutiger Aero aesthetic.
 
